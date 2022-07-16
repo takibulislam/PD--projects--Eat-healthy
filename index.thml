@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pre - Assignment</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+
+
+<!--First Page-->
+
+    <section class="top-banner">
+      <div class="flexible-display">
+        <div class="top-half">
+          <h1 class="heading"> <span> Skip </span>The Diet, <br> Just Eat Healthy With Food Network.</h1>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda omnis et deleniti quis aut culpa velit corrupti molestiae neque! Alias, et dignissimos quo placeat nisi similique recusandae temporibus itaque perspiciatis.
+          </p>
+          <a href="www.facebook.com">Order Food</a>
+        </div>
+
+        <div class="top-half">
+          <img src="images/Blue Yellow Modern Webinar Facebook Post.png" alt="" />
+        </div>
+      </div>
+    </section>
+
+<!-- About Me-->
+
+    <section class="second-banner">
+      <div class="flexible-display">
+        <div class="second-half">
+          <img src="images/female/Person Image.png" alt="">
+        </div>
+
+        <div class="second-half">
+          <h1 class="heading">About Me</h1>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio ea explicabo numquam, corrupti consectetur, fugiat optio quisquam, id magnam dolorum tenetur sit? Impedit debitis minus, quas exercitationem id officiis accusantium.</p>
+          <a class="contat-me" href="www.facebook.com">Contact Me</a>
+        </div>
+      </div>
+    </section>
+
+
+
+    <section class="third-banner">
+      <h1 class="tb-h1">My Recipies</h1>
+        <p class="tb-p">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Magni dolore voluptatibus perferendis officiis, dolores totam <br> expedita veniam sit doloribus eveniet blanditiis nulla animi suscipit placeat fugiat, quia aperiam sequi sapiente?</p>
+      <div class="flexible-display">
+        <div id="th-i" class="third-half">
+          <img class="th-img" src="images/food/Project Cover.jpg" alt="">
+          <h1 class="th-h1">Keto Recipies</h1>
+          <p class="th-p">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsum, quod. Cupiditate odio facere laudantium eius provident, molestias est rem incidunt a! Harum ex repellendus repudiandae, eveniet adipisci vero suscipit mollitia.</p>
+        </div>
+
+        <div id="th-ii" class="third-half">
+          <img class="th-img" src="images/food/Project Cover.png" alt="">
+          <h1 class="th-h1"> Veg Recipies</h1>
+          <p class="th-p">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eaque consequatur vel laboriosam, repellendus animi dolores dolorum minus expedita reiciendis qui quibusdam inventore labore nam nulla perspiciatis, aliquam possimus fuga officia.</p>
+        </div>
+      </div>
+    </section>
+
+
+
+    <section class="last-banner">
+      <h1 class="lb-h1">Followers</h1>
+      <div class="parents">
+        <div class="child" >
+          <h2>700k</h2>
+          <p>Youtube Subsriber</p>
+        </div>
+        <div class="child">
+          <h2>2.4 M</h2>
+          <p>Instagram Folowers</p>
+        </div>
+        <div class="child">
+          <h2>100k</h2>
+          <p>Dribble Subscribers</p>
+        </div>
+      </div>
+    </section>
+  </body>
+  <footer class="footer">
+    <h2 class="ftext-h2"> <span>Eat</span> healthy</h2>
+    <p class="ftext-p">Eat healthy to live healthy. Live healthy to live happy.</p>
+  </footer>
+</html>
